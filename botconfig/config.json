@@ -1,0 +1,8 @@
+{
+  "token": "",
+  "console_tag": "JOB_APP",
+  "bot_status": "Taking job Applications",
+  "prefix": "?",
+  "loadSlashsGlobal": false, "_COMMENT_": "Set it to true, when your Slash Commands are ready, false loads instant true loads slow but stable! (GLOBAL/GUILD COMMANDS, DISCORD DOCS!)",
+  "slashCommandsDirs": []
+}
